@@ -9,13 +9,6 @@ int main(){
     for(int i = min; i <= max; i++){
         printf("%d ", i);
     }
-
-
-
-
-
-
-
-
+    
     return 0;
 }
